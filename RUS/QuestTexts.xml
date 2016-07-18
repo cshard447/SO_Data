@@ -759,9 +759,9 @@
   <Quest>
     <ID>1204</ID>
     <NPC>Sanek_Bivaliy</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title>Согласиться помочь Кислому</Title>
-    <Description>Этот квест дается и закрывается в одном диалоге, для того, чтобы определить готовность игрока исправить ситуацию с Кислым, виноват в которой сам игрок.</Description>
+    <Description>Этот квест дается и закрывается в одном диалоге (НЕТ), для того, чтобы определить готовность игрока исправить ситуацию с Кислым, виноват в которой сам игрок.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -3268,9 +3268,9 @@
   <Quest>
     <ID>7216</ID>
     <NPC>Stalker_Bomzh_4</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title>Щенячьи головы</Title>
-    <Description>Местные Любеча организовали бизнес по производству сувениров из черепов щенков собак. Минимальная партия, которую они принимают: 10 голов.</Description>
+    <Description>Местные с вокзала Любеча организовали бизнес по производству сувениров из черепов щенков собак. Минимальная партия, которую они принимают: 10 голов.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -3838,9 +3838,9 @@
   <Quest>
     <ID>7326</ID>
     <NPC>Mitka</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title>Вести от Митьки</Title>
-    <Description>Митька стал охотником и выслеживает кого-то в районе Тунгуски. Но он говорит, что не знает своего старого друга. Стоит рассказать об этом Кислому.</Description>
+    <Description>Митька заделался ремонтником в поселке "Радиус" на Тунгуске. И похоже занимается там чем-то еще, но чем именно - не ясно. Он говорит, что не знает своего старого друга. Стоит рассказать об этом Кислому.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -3858,8 +3858,8 @@
   <Quest>
     <ID>7328</ID>
     <NPC>Shtaket</NPC>
-    <Version>1</Version>
-    <Title></Title>
+    <Version>2</Version>
+    <Title>сдача 1000</Title>
     <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -3868,8 +3868,8 @@
   <Quest>
     <ID>7329</ID>
     <NPC>Shtaket</NPC>
-    <Version>1</Version>
-    <Title></Title>
+    <Version>2</Version>
+    <Title>сдача 500</Title>
     <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -3878,8 +3878,8 @@
   <Quest>
     <ID>7330</ID>
     <NPC>Shtaket</NPC>
-    <Version>1</Version>
-    <Title></Title>
+    <Version>2</Version>
+    <Title>сдача 500-2</Title>
     <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -4518,9 +4518,9 @@
   <Quest>
     <ID>7403</ID>
     <NPC>Kich</NPC>
-    <Version>5</Version>
+    <Version>6</Version>
     <Title>Долги Болотника</Title>
-    <Description>Кич просит взыскать долг с Болотника. Болотник задолжал наемникам 10000  и с тех пор прячется на болотах.</Description>
+    <Description>Кич просит взыскать долг с Болотника. Болотник задолжал наемникам 30000  и с тех пор прячется на болотах.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4538,9 +4538,9 @@
   <Quest>
     <ID>7405</ID>
     <NPC>Kich</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Долги Болотника</Title>
-    <Description>Кич ждет десять тысяч. Кич сказал, что деньги можно взять у Болотника, но в принципе его устроят любые десять тысяч...</Description>
+    <Description>Кич ждет тридцать тысяч. Кич сказал, что деньги можно взять у Болотника, но в принципе его устроят любые тридцать тысяч...</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4578,9 +4578,9 @@
   <Quest>
     <ID>7409</ID>
     <NPC>Kich</NPC>
-    <Version>5</Version>
+    <Version>6</Version>
     <Title>У попа были долги...</Title>
-    <Description>Поп, прячущийся в одной из заброшенных деревень, должен, по словам Кича, 12000 наемникам "Вороньего Леса".</Description>
+    <Description>Поп, прячущийся в одной из заброшенных деревень, должен, по словам Кича, 50 000 наемникам "Вороньего Леса".</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4598,9 +4598,9 @@
   <Quest>
     <ID>7411</ID>
     <NPC>Kich</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>У попа были долги...</Title>
-    <Description>Кич ждет двенадцать тысяч. Кич сказал, что поп должен ему эти деньги, но в принципе Кича устроят любые двенадцать тысяч...</Description>
+    <Description>Кич ждет пятдесят тысяч. Кич сказал, что поп должен ему эти деньги, но в принципе Кича устроят любые пятдесят тысяч...</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4638,9 +4638,9 @@
   <Quest>
     <ID>7415</ID>
     <NPC>Kich</NPC>
-    <Version>4</Version>
+    <Version>5</Version>
     <Title>Долги Гурмана</Title>
-    <Description>Кич просит взыскать долги с Гурмана. Гурман задолжал наемникам 50000  и с тех пор прячется на окраине Любеча.</Description>
+    <Description>Кич просит взыскать долги с Гурмана. Гурман задолжал наемникам 100000  и с тех пор прячется на окраине Любеча.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4658,9 +4658,9 @@
   <Quest>
     <ID>7417</ID>
     <NPC>Kich</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Долги Гурмана</Title>
-    <Description>Кич ждет пятьдесят тысяч. Кич сказал, что деньги можно взять у Гурмана, но в принципе его устроят любые пятьдесят тысяч...</Description>
+    <Description>Кич ждет сто тысяч. Кич сказал, что деньги можно взять у Гурмана, но в принципе его устроят любые сто тысяч...</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -4935,9 +4935,9 @@
   <Quest>
     <ID>7465</ID>
     <NPC>bd_Palach</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Больше инструментов</Title>
-    <Description>Раздобыть набор особых инструментов.</Description>
+    <Description>Раздобыть набор особых инструментов. Они могут быть у ремонтника на Гурмане и еще, возможно, в Пещере бандитов.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -8446,9 +8446,9 @@
   <Quest>
     <ID>7857</ID>
     <NPC>Ammo_trader_noob</NPC>
-    <Version>6</Version>
+    <Version>7</Version>
     <Title>Торговцы</Title>
-    <Description>Покупайте у торговцев новую экипировку и дополнительные патроны. Деньги можно заработать, выполняя задания и продавая части мутантов скупщикам.</Description>
+    <Description>Покупайте у торговцев новую экипировку и дополнительные патроны. Деньги можно заработать, выполняя задания и продавая найденные предметы.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -8606,9 +8606,12 @@
   <Quest>
     <ID>7877</ID>
     <NPC>Ammo_trader_noob</NPC>
-    <Version>3</Version>
+    <Version>5</Version>
     <Title></Title>
-    <Description>Чтобы купить или продать товар, перенесите его в нижнюю часть окна (на стол торговли) из сумки торговца или из своего рюкзака. Сумма покупки \ продажи появится внизу окна. Для подтверждения торговой операции, нажмите "Принять". Нажмите "Очистить", чтобы убрать товары со стола торговли. Чтобы закрыть окно торговли, нажмите Esc или "крестик" в верхнем правом углу окна.</Description>
+    <Description>Чтобы купить товар либо перетащите соответствующую иконку в нижнюю часть окна или дважды кликните на иконке. Если вы хотите купить несколько товаров, нажмите правую кнопку мыши и выберите действие "Добавить...", после чего, в появившемся окне, введите необходимое количество. 
+Продать товар можно, перенеся его из своего рюкзака в нижнюю часть окна. 
+Сумма покупки \ продажи появится внизу окна. Для подтверждения торговой операции, нажмите "Принять". Нажмите "Очистить", чтобы убрать все товары из нижней части окна торговли.
+Чтобы закрыть окно торговли, нажмите Esc или "крестик" в верхнем правом углу окна.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -9070,9 +9073,9 @@
   <Quest>
     <ID>7287</ID>
     <NPC>Dog_hunter</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Собачьи уши</Title>
-    <Description>Капустин сообщил, что доктору Зиновьеву опять нужны уши собак. Нужных собак можно найти возле военсклада. Доктор Зиновьев ждет образцы в бывшем здании милиции, но Капустин просит отдать собачьи уши ему, за вознаграждение в 300 рублей.</Description>
+    <Description>Капустин сообщил, что доктору Зиновьеву опять нужны уши собак. Нужных собак можно найти возле военсклада. Доктор Зиновьев ждет образцы в бывшем здании милиции, но Капустин просит отдать собачьи уши ему.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -9654,9 +9657,9 @@
   <Quest>
     <ID>7934</ID>
     <NPC>Dejurnyi</NPC>
-    <Version>9</Version>
+    <Version>10</Version>
     <Title>Крысолов</Title>
-    <Description>Дежурный по станции попросил убить несколько крыс на югозападе от станции, по центру границы квадратов А1-2 и Б2-1.
+    <Description>Дежурный по станции попросил убить несколько крыс в квадратахк А2-2 и Б1-3.
 
 
 
@@ -12583,9 +12586,9 @@
   <Quest>
     <ID>8229</ID>
     <NPC>fs_Shpricev</NPC>
-    <Version>5</Version>
+    <Version>6</Version>
     <Title>"Антиграв α" для Симонова</Title>
-    <Description>Симонов не хочет рассказывать про сталкера с барретом, но попросил найти редкий артефакт "Антиграв α". Быть может, жест доброй воли убедит ученого, что новому сталкеру можно доверять.</Description>
+    <Description>Симонов попросил найти редкий артефакт "Антиграв α". Несмотря на твои старания войти в доверие к ученой братии, он не хочет поручать тебе особенно важную работу. Быть может, жест доброй воли убедит ученого доверить тебе важное дело.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -13665,9 +13668,9 @@
   <Quest>
     <ID>8324</ID>
     <NPC>Morse</NPC>
-    <Version>2</Version>
-    <Title>Инструменты для Морзе</Title>
-    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны 15 наборов инструментов для работы.</Description>
+    <Version>3</Version>
+    <Title>Ремнабор для Морзе</Title>
+    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужен ремнабор для работы.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -13675,9 +13678,9 @@
   <Quest>
     <ID>8327</ID>
     <NPC>Morse</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title>Проволока для Морзе</Title>
-    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны 30 мотков медной проволоки, для ремонта антенны.</Description>
+    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны 20 мотков медной проволоки, для ремонта антенны.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -13685,9 +13688,9 @@
   <Quest>
     <ID>8335</ID>
     <NPC>Morse</NPC>
-    <Version>4</Version>
+    <Version>5</Version>
     <Title>"Обрезки" для Морзе</Title>
-    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны "обрезки", 30 коротких проводов, для ремонта проводки в кунге.</Description>
+    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны "обрезки", 20 коротких проводов, для ремонта проводки в кунге.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -13695,9 +13698,9 @@
   <Quest>
     <ID>8338</ID>
     <NPC>Morse</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title>Изолента для Морзе</Title>
-    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны 30 мотков изоленты, для спасения проводки от аномальной коррозии.</Description>
+    <Description>В районе Везувия, техник Морзе пытается починить радиовышку, но ему нужны 20 мотков изоленты, для спасения проводки от аномальной коррозии.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -14693,7 +14696,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>702</itemID>
+        <itemID>810519</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -14710,7 +14713,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>702</itemID>
+        <itemID>810519</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -14727,7 +14730,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>702</itemID>
+        <itemID>810519</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -14754,7 +14757,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>1127</itemID>
+        <itemID>810518</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -14771,7 +14774,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>810004</itemID>
+        <itemID>810517</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -14938,9 +14941,9 @@
   <Quest>
     <ID>8460</ID>
     <NPC>Grandpa_Moroz_2</NPC>
-    <Version>8</Version>
+    <Version>9</Version>
     <Title>Большая охота</Title>
-    <Description>Морозов обещал отдать свой старый костюм "Кинолог" смельчаку, который убьет по 10 мутантов каждого вида и по 3 мутанта каждого подвида из известных науке. Следует помнить, что подвиды мутантов идут в общий зачет своего вида. Успешно справившись с поставленной задачей, нужно снова подойти к Морозову.</Description>
+    <Description>Морозов обещал отдать свой старый костюм "Кинолог" смельчаку, который убьет по 10 мутантов каждого вида и по 3 мутанта каждого подвида из известных науке (кроме Паукана). Следует помнить, что подвиды мутантов идут в общий зачет своего вида. Успешно справившись с поставленной задачей, нужно снова подойти к Морозову.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -15218,9 +15221,9 @@
   <Quest>
     <ID>8483</ID>
     <NPC>Grandpa_Moroz_2</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title></Title>
-    <Description>Убить 3 торфяных пауков.</Description>
+    <Description>Убить 3 торфяных пауков на болотах в Окрестностях Любеча.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -15248,9 +15251,9 @@
   <Quest>
     <ID>8486</ID>
     <NPC>Grandpa_Moroz_2</NPC>
-    <Version>4</Version>
+    <Version>5</Version>
     <Title></Title>
-    <Description>Убить 3 Пауканов.</Description>
+    <Description>Убить Паукана.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -15994,9 +15997,9 @@
   <Quest>
     <ID>159</ID>
     <NPC>Provodnik_Outlands_Caravan</NPC>
-    <Version>3</Version>
-    <Title>АКМС для проводника в Тюрьму</Title>
-    <Description>Чтобы попасть в Тюрьму, проводник просит достать АКМС для его приятеля из охраны Тюрьмы.</Description>
+    <Version>4</Version>
+    <Title>АКС74У для проводника в Тюрьму</Title>
+    <Description>Чтобы попасть в Тюрьму, проводник просит достать АКС74У для его приятеля из охраны Тюрьмы.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -16124,9 +16127,9 @@
   <Quest>
     <ID>165</ID>
     <NPC>Vetrichenko</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Микрочипы для Ветриченко</Title>
-    <Description>Ветриченко обещал за два микрочипа из Непробиваемого дать записку для пилота на Аэродроме. По той записке можно будет бесплатно полететь на Тунгуску или Новую Землю.</Description>
+    <Description>Ветриченко обещал за два микрочипа из Непробиваемого дать несколько транзисторов.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -16134,9 +16137,9 @@
   <Quest>
     <ID>166</ID>
     <NPC>Vetrichenko</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title>Провода в изоляции для Ветриченко</Title>
-    <Description>Ветриченко обещал за тридцать мотков "провода в изоляции", дать записку для пилота на Аэродроме. По той записке можно будет бесплатно полететь на Тунгуску или Новую Землю.</Description>
+    <Description>Ветриченко обещал за тридцать мотков "провода в изоляции", дать редкий транзистор, который, говорят, немало стоит, если знать кому продавать.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -16154,9 +16157,9 @@
   <Quest>
     <ID>168</ID>
     <NPC>Vetrichenko</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title>Медная проволока для Ветриченко</Title>
-    <Description>Ветриченко обещал за тридцать мотков "медной проволоки", дать записку для пилота на Аэродроме. По той записке можно будет бесплатно полететь на Тунгуску или Новую Землю.</Description>
+    <Description>Ветриченко обещал за тридцать мотков "медной проволоки", дать редкий транзистор, который, говорят, немало стоит, если знать кому продавать.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -16174,9 +16177,9 @@
   <Quest>
     <ID>170</ID>
     <NPC>Nishtyak</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title>Поиски сестры Шепелева: Спирт для Ништяка</Title>
-    <Description>Ништяк что-то знает о том где искать Зинаиду, но взамен инфрмации он просит двадцать бутылок спирта.</Description>
+    <Description>Ништяк что-то знает о том, где искать Зинаиду, но взамен информации он просит двадцать бутылок спирта.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -16920,8 +16923,8 @@
   <Quest>
     <ID>244</ID>
     <NPC>Leshich</NPC>
-    <Version>1</Version>
-    <Title>Поговорить с Шляпником на счет работы</Title>
+    <Version>2</Version>
+    <Title>Поговорить с Шляпником насчет работы</Title>
     <Description>Лешичь предложил поработать на Шляпника из ДК, который в Любече. Надо встретиться с Шляпником и обсудить с ним детали работы.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -17580,9 +17583,9 @@
   <Quest>
     <ID>465</ID>
     <NPC>Teklberry</NPC>
-    <Version>9</Version>
+    <Version>10</Version>
     <Title></Title>
-    <Description>Паукан - живая легенда Зоны. Колоссальных размеров паук-мутант, прячущийся глубоко под землей в районе окрестностей Любеча, должен умереть.</Description>
+    <Description>Паукан - живая легенда Зоны. Колоссальных размеров паук-мутант, прячущийся глубоко под землей в районе окрестностей Любеча, должен умереть. В доказательство нужно принести 3 лапы Паукана.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -17590,9 +17593,9 @@
   <Quest>
     <ID>466</ID>
     <NPC>Teklberry</NPC>
-    <Version>11</Version>
+    <Version>12</Version>
     <Title></Title>
-    <Description>Зрячие ведуны... Последнее, что они должны увидеть перед смертью - это вы.</Description>
+    <Description>Зрячие ведуны... Последнее, что они должны увидеть перед смертью - это вы. В доказательство нужно принести 30 медальонов.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -17660,9 +17663,9 @@
   <Quest>
     <ID>475</ID>
     <NPC>Jivoderov</NPC>
-    <Version>4</Version>
+    <Version>6</Version>
     <Title></Title>
-    <Description>Торфяной паук - тварь не слишком редкая и не слишком приятная. Особых проблем быть не должно. Десять лап требуется перевести в собственность компании.</Description>
+    <Description>Торфяной паук - тварь не слишком редкая и не слишком приятная. Особых проблем быть не должно. Восемь лап требуется перевести в собственность компании.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -17670,9 +17673,9 @@
   <Quest>
     <ID>476</ID>
     <NPC>Jivoderov</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title></Title>
-    <Description>Страшная и очень опасная тварь - Паукан, конечно же, представляет наибольший интерес. Его ферменты уникальны по составу и, возможно, влияют на организмы других существ того же вида, обладая механизмом, близким к феромонам. Десяток лап определенно помогут разобраться!</Description>
+    <Description>Страшная и очень опасная тварь - Паукан, конечно же, представляет наибольший интерес. Его ферменты уникальны по составу и, возможно, влияют на организмы других существ того же вида, обладая механизмом, близким к феромонам. Пара лап определенно помогут разобраться!</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -17690,9 +17693,9 @@
   <Quest>
     <ID>478</ID>
     <NPC>Jivoderov</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title></Title>
-    <Description>Языки глупых бляков представляют интерес для компании. Что именно с ними там делают, лучше не думать, иначе прийти можно к самым отталкивающим выводам. Но главное ведь - результат?</Description>
+    <Description>Когти глупых бляков представляют интерес для компании. Что именно с ними там делают, лучше не думать, иначе прийти можно к самым отталкивающим выводам. Но главное ведь - результат?</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -17830,8 +17833,8 @@
   <Quest>
     <ID>472</ID>
     <NPC>Kolia_Tesla</NPC>
-    <Version>6</Version>
-    <Title>Диссонанс: Усилитель для Морзе</Title>
+    <Version>7</Version>
+    <Title>Диссонанс: Сборка усилителя для Морзе</Title>
     <Description>Тесла согласился помочь, но, разумеется, ничто не дается задаром. Вам придется обеспечить его материалами и инструментом для выполнения заказа.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -17877,9 +17880,9 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>1153</itemID>
-        <title>Усилитель Морзе</title>
-        <description>Мощный усилитель, собранный Колей Тесла по чертежу Морзе. </description>
+        <itemID>810516</itemID>
+        <title></title>
+        <description></description>
         <activation></activation>
       </item>
     </Items>
@@ -21582,9 +21585,9 @@
   <Quest>
     <ID>769</ID>
     <NPC>Sibiryak</NPC>
-    <Version>11</Version>
+    <Version>13</Version>
     <Title>Детали для Ромы Сибиряка</Title>
-    <Description>Рома Сибиряк из квадрата В6 Аэропорта попросил принести по двадцать штук электродеталей, радиодеталей и обрезков проводов. Он попытается собрать модульный МЗА, и если получится - отдаст его мне.</Description>
+    <Description>Рома Сибиряк из квадрата В6 Аэропорта попросил принести по двадцать штук радиоламп и обрезков проводов, а также десять микрочипов. Он попытается собрать МЗА, и если получится - отдаст его мне.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -21592,9 +21595,9 @@
   <Quest>
     <ID>770</ID>
     <NPC>Sibiryak</NPC>
-    <Version>4</Version>
+    <Version>5</Version>
     <Title></Title>
-    <Description>Принести электродетали.</Description>
+    <Description>Принести микрочипы.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -21602,9 +21605,9 @@
   <Quest>
     <ID>771</ID>
     <NPC>Sibiryak</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title></Title>
-    <Description>Принести радиодетали.</Description>
+    <Description>Принести радиолампы</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -21672,9 +21675,9 @@
   <Quest>
     <ID>778</ID>
     <NPC>Sibiryak</NPC>
-    <Version>4</Version>
+    <Version>5</Version>
     <Title></Title>
-    <Description>Найти набор инструментов.</Description>
+    <Description>Найти ремнабор.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -28988,7 +28991,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>1132</itemID>
+        <itemID>810520</itemID>
         <title>Лженаркотик</title>
         <description></description>
         <activation></activation>
@@ -29025,8 +29028,8 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>1132</itemID>
-        <title>Лженаркотик</title>
+        <itemID>810520</itemID>
+        <title></title>
         <description></description>
         <activation></activation>
       </item>
@@ -29062,7 +29065,7 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>810004</itemID>
+        <itemID>810521</itemID>
         <title></title>
         <description></description>
         <activation></activation>
@@ -29917,9 +29920,9 @@
   <Quest>
     <ID>1661</ID>
     <NPC>Ryzhij</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>Радиодетали для Рыжего</Title>
-    <Description>Рыжий согласится вступить в труппу только если помочь ему закончить важный заказ. Для этого ему нужны пять радиодеталей.</Description>
+    <Description>Рыжий согласится вступить в труппу только если помочь ему закончить важный заказ. Для этого ему нужны три радиодетали.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30254,8 +30257,8 @@
     <onFailed></onFailed>
     <Items>
       <item>
-        <itemID>810092</itemID>
-        <title>Букет ромашек</title>
+        <itemID>810515</itemID>
+        <title></title>
         <description></description>
         <activation></activation>
       </item>
@@ -33204,10 +33207,10 @@
   </Quest>
   <Quest>
     <ID>1948</ID>
-    <NPC>Kris</NPC>
-    <Version>3</Version>
-    <Title></Title>
-    <Description></Description>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>проигрыш при смерти</Title>
+    <Description>сабж</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -33283,12 +33286,12 @@
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>1959</ID>
-    <NPC>Kris</NPC>
+    <ID>1953</ID>
+    <NPC>Pavluha_Rat</NPC>
     <Version>1</Version>
     <Title></Title>
-    <Description>выйти и провалить</Description>
-    <onWin></onWin>
+    <Description></Description>
+    <onWin>вы постояли 60 сек</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -33313,13 +33316,13 @@
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>1953</ID>
+    <ID>1959</ID>
     <NPC>Pavluha_Rat</NPC>
-    <Version>2</Version>
-    <Title>мешок</Title>
+    <Version>1</Version>
+    <Title></Title>
     <Description></Description>
-    <onWin>вот мешок</onWin>
-    <onFailed></onFailed>
+    <onWin></onWin>
+    <onFailed>вы умерли и провалили квест</onFailed>
     <Items></Items>
   </Quest>
   <Quest>
@@ -33480,73 +33483,6 @@
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>1979</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>5</Version>
-    <Title>нука дай мне с вероятностью</Title>
-    <Description>войди в шухер, пойди к ящику, возьми доки, поговори, сдай доки</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>1980</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>3</Version>
-    <Title></Title>
-    <Description>зона и ящик</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>1981</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description></Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>1982</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>2</Version>
-    <Title></Title>
-    <Description>войди в шухер 1</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>1983</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description>потрогай ящик</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items>
-      <item>
-        <itemID>1609</itemID>
-        <title>удостоверение</title>
-        <description>длинное описание</description>
-        <activation></activation>
-      </item>
-    </Items>
-  </Quest>
-  <Quest>
-    <ID>1984</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description></Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
     <ID>1985</ID>
     <NPC>Provodnik_Tunguska_Caravan</NPC>
     <Version>1</Version>
@@ -33602,16 +33538,6 @@
     <Version>4</Version>
     <Title>Нормальные патроны за мясо</Title>
     <Description>Местный, тот, который хвосты крысинные принимает у вокзала, предложил патроны в обмен за мясо. Только теперь он предлагает уже высушенные. Как постоянному поставщику.</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>1991</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title>преврати в медведа</Title>
-    <Description>окей превращу</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -33777,58 +33703,11 @@
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>2013</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title>преврати в медведа через пузырь</Title>
-    <Description>взять пузырь, выпить, телепортнуться, потерять пузырь</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items>
-      <item>
-        <itemID>1626</itemID>
-        <title>Самогон Медведа</title>
-        <description>Бутылка с желтоватой жидкостью, пахнущей спиртом. Ее дал медвед.</description>
-        <activation>Выпить</activation>
-      </item>
-    </Items>
-  </Quest>
-  <Quest>
-    <ID>2016</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>2</Version>
-    <Title></Title>
-    <Description>Выпей. Стань козленком.</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>2017</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description></Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
     <ID>2015</ID>
     <NPC>Radioman</NPC>
     <Version>2</Version>
     <Title></Title>
     <Description>потребовать у Карла чип</Description>
-    <onWin></onWin>
-    <onFailed></onFailed>
-    <Items></Items>
-  </Quest>
-  <Quest>
-    <ID>2018</ID>
-    <NPC>Pavluha_Rat</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35213,9 +35092,9 @@
   <Quest>
     <ID>2152</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>3</Version>
+    <Version>5</Version>
     <Title></Title>
-    <Description>Недалеко от траектории полета разбившегося самолета есть заблокированный железнодорожный тоннель в районе квадрата Е1-3. Наблюдение, по мнению Кесаревича, стоит начать с него.</Description>
+    <Description>Недалеко от траектории полета разбившегося самолета есть заблокированный железнодорожный тоннель в районе квадрата Е5 1-3. Наблюдение, по мнению Кесаревича, стоит начать с него.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35243,10 +35122,10 @@
   <Quest>
     <ID>2155</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Понаблюдайте за железнодорожными путями и тоннелем какое-то время.</Description>
-    <onWin>Лучше понаблюдать. Честность в будущем окупится.</onWin>
+    <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -35327,9 +35206,9 @@
   <Quest>
     <ID>2162</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>2</Version>
+    <Version>3</Version>
     <Title></Title>
-    <Description>Еще одно место, за которым стоит понаблюдать - Башня Тесла. Но сначала, надо аккуратно подобраться к подстанции рядом с Башней и убедиться, что там никто не проявится из "псевдо военных".</Description>
+    <Description>Еще одно место, за которым стоит понаблюдать - Башня Тесла. Но сначала, надо аккуратно подобраться к подстанции рядом с Башней  (лучше, с юго-западной стороны) и убедиться, что там никто не проявится из "псевдо военных".</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35471,9 +35350,9 @@
   <Quest>
     <ID>2180</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>1</Version>
+    <Version>3</Version>
     <Title></Title>
-    <Description>Недалеко от траектории полета разбившегося самолета есть заблокированный железнодорожный тоннель  в районе квадрата Е1-3. Наблюдение, по мнению Кесаревича, стоит начать с него.</Description>
+    <Description>Недалеко от траектории полета разбившегося самолета есть заблокированный железнодорожный тоннель  в районе квадрата Е5 1-3. Наблюдение, по мнению Кесаревича, стоит начать с него.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35615,9 +35494,9 @@
   <Quest>
     <ID>2190</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
-    <Description>Финальный пункт наблюдения - сама Башня.</Description>
+    <Description>Финальный пункт наблюдения на Тунгуске - сама Башня.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35759,9 +35638,9 @@
   <Quest>
     <ID>2206</ID>
     <NPC>Leonid_Ceaser</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
-    <Description>Понаблюдай за военным складом какое-то время.</Description>
+    <Description>Понаблюдай за железнодорожным мостом какое-то время.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35826,9 +35705,9 @@
   <Quest>
     <ID>2194</ID>
     <NPC>Provodnik_Tunguska_Caravan</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title></Title>
-    <Description>Нужно найти "могилу" в квадрате АЕ 3, где, по мнению Колеса, Вульф убил и захоронил нескольких ученых, с которыми  встречался на Караване.</Description>
+    <Description>Нужно найти "могилу" в районе квадратов АЕ2 - АЕ4, где, по мнению Колеса, Вульф убил и захоронил нескольких ученых, с которыми  встречался на Караване.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -35911,41 +35790,4078 @@
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>2215</ID>
-    <NPC>Pavluha_Rat</NPC>
+    <ID>2218</ID>
+    <NPC>money_giver</NPC>
     <Version>1</Version>
-    <Title>сплошные кабаны_тест</Title>
+    <Title>Раздача слонов</Title>
+    <Description>Если Вы нуждающийся тестер, попросите дать вам денег.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2219</ID>
+    <NPC>Provodnik_Airport</NPC>
+    <Version>2</Version>
+    <Title>Записка от Ветриченко для пилота</Title>
+    <Description>По особой просьбе Ветриченко пилот готов доставить тебя на Тунгуску или на Новую Землю бесплатно.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2220</ID>
+    <NPC>Jivoderov</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Потребовать у Живодерова награду.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2221</ID>
+    <NPC>Bank_Naemnik</NPC>
+    <Version>2</Version>
+    <Title>Больше Морозов</Title>
+    <Description>Оказывается Следователь "заначил" одного Деда Мороза для себя. Теперь он достался тебе. Может он принесет удачу?</Description>
+    <onWin>Может этот Дед Мороз принесет тебе удачу?</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2222</ID>
+    <NPC>Sergeant_Drachuk</NPC>
+    <Version>1</Version>
+    <Title>Недостача на складе</Title>
+    <Description>Сержант Драчук жалуется, что на складе закончились бронежелеты и просит не в службу, а в дружбу принести ему "Сухарь".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2223</ID>
+    <NPC>Mokruh</NPC>
+    <Version>1</Version>
+    <Title>Фокус-покус</Title>
+    <Description>Ты удачно показал Мокруху фокус.</Description>
+    <onWin>Фокус прошел успешно. Мокрух ничего не заметил.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2224</ID>
+    <NPC>Radioman</NPC>
+    <Version>1</Version>
+    <Title>Радиочип: Забывчивый Карл</Title>
+    <Description>Кажется Карл в этот раз задумался и дважды пытался сделать Радиочип...</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2225</ID>
+    <NPC>Grandpa_Moroz_2</NPC>
+    <Version>1</Version>
+    <Title>Пара Пауканов на закуску...</Title>
+    <Description>У тебя вдруг возникла мысль убить еще парочку Пауканов. Морозов готов поддержать тебя материальным поощрением - ему интересно, выйдет ли у тебя.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2226</ID>
+    <NPC>Grandpa_Moroz_2</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Выследи и убей двух Пауканов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2227</ID>
+    <NPC>Grandpa_Moroz_2</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Надо рассказать Морозову об успехе операции по уничтожению Пауканов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2228</ID>
+    <NPC>Diogen</NPC>
+    <Version>1</Version>
+    <Title>Легенда от Диогена</Title>
+    <Description>Диоген рассказал тебе одну из гипотез возникновения Зоны.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2229</ID>
+    <NPC>EgorSniper</NPC>
+    <Version>1</Version>
+    <Title>Добрый Егор, великодушный Рома</Title>
+    <Description>Егор Стрелок, посоветовавшись с Ромой Сибиряком, решил уступить тебе "должок", который числится за Отсавным Полковником на Тунгуске.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2230</ID>
+    <NPC>Barmen_LVZ</NPC>
+    <Version>1</Version>
+    <Title>Поставки для бара</Title>
+    <Description>Бармен с ЛВЗ попросил добыть для расширения ассортимента выпивки 20 бутылок самогону. Проще всего достать самогон у местных в Аэропорту.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2231</ID>
+    <NPC>Ivan_Hell</NPC>
+    <Version>1</Version>
+    <Title>Сегодня особенно много пепла...</Title>
+    <Description>Ваня Ад посоветовал заглянуть к Шперлингу за снаряжением.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2232</ID>
+    <NPC>Kolia_Tesla</NPC>
+    <Version>1</Version>
+    <Title>Хлам для Теслы</Title>
+    <Description>Коля Тесла выполняет особый заказ и попросил принести кое-какой мелочи в обмен на несколько транзисторов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2233</ID>
+    <NPC>Kolia_Tesla</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Принести 100 крупных шайб</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2234</ID>
+    <NPC>Kolia_Tesla</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Принести 100 пружинок</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2235</ID>
+    <NPC>Kolia_Tesla</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Принести 80 крупных гаек</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2236</ID>
+    <NPC>Kolia_Tesla</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Пообщаться с Колей Теслой</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2237</ID>
+    <NPC>money_giver</NPC>
+    <Version>2</Version>
+    <Title>простите</Title>
+    <Description>вычесть карму</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2238</ID>
+    <NPC>Jura_Barabashka</NPC>
+    <Version>2</Version>
+    <Title>Аномальный рюкзак.</Title>
+    <Description>Юра, когда вернулся к холодильнику, в котором спрятал свой рюкзак, обнаружил там копию рюкзака. Копия оказалась пустой, без хабара. Но Юрка искренне верит, что если продолжит собирать рюкзаки из холодильника, рано или поздно найдет в них копии своих артефактов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2243</ID>
+    <NPC>Jura_Barabashka</NPC>
+    <Version>1</Version>
+    <Title>Аномальный рюкзак</Title>
     <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>2216</ID>
+    <ID>2244</ID>
+    <NPC>Jura_Barabashka</NPC>
+    <Version>0</Version>
+    <Title>Аномальный рюкзак</Title>
+    <Description>Копию рюкзака Юры можно найти в квадрате Е12, в выброшенном холодильнике, на холме.</Description>
+    <onWin>Где-то здесь должен быть холодильник с рюкзаком Юры.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2245</ID>
+    <NPC>Jura_Barabashka</NPC>
+    <Version>0</Version>
+    <Title>Аномальный рюкзак</Title>
+    <Description>Достать рюкзак из холодильника.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2246</ID>
+    <NPC>Jura_Barabashka</NPC>
+    <Version>0</Version>
+    <Title>Аномальный рюкзак</Title>
+    <Description>Отнести рюкзак Юрке Барабашке. Юрка ждет в гараже, на юге от стадиона.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2239</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title>УЗИ для Ништяка</Title>
+    <Description>Ништяк вдруг озоботился соседством с собаками и просит принести ему УЗИ и патроны.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2240</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2241</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Достать патронов к УЗИ 9х19, штук 200</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2242</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2247</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>2</Version>
+    <Title>Башка и Узи</Title>
+    <Description>возможность вернуться и забрать УЗИ</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2248</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2249</ID>
+    <NPC>Nishtyak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2250</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>1</Version>
+    <Title>Хмырь-изобретатель</Title>
+    <Description>Хмырь изобрел какое-то особое устройство "по чертежам испанских средневековых профессианалов" и готов вознаградить за необходимые запчасти.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2251</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Собрать 200 длинных трубок.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2252</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>3</Version>
+    <Title></Title>
+    <Description>Собрать 80 коротких трубок</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2253</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Собрать 20 мотков изоленты</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2254</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Найти 5 банок солидола</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2255</ID>
+    <NPC>bd_Palach</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Спросить у Хмыря про награду</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2256</ID>
+    <NPC>Sherstnov</NPC>
+    <Version>1</Version>
+    <Title>Прах</Title>
+    <Description>Шерстнов умоляет ему помочь. Он готов заплатить кругленькую сумму за несложное, но щекотливое дело. Надо найти какой-то пузырек с надписью "Метка 17" в лагере "Эгида".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2257</ID>
+    <NPC>Sherstnov</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти, где ученые "Эгиды" хранять образцы и забрать пузырек с прахом.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>1133</itemID>
+        <title>"Метка 17"</title>
+        <description>Пузырек с чем-то похожим на прах.</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2258</ID>
+    <NPC>Sherstnov</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Отнести "Метку 17" Шерстнову.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2259</ID>
+    <NPC>Sherstnov</NPC>
+    <Version>1</Version>
+    <Title>ложь</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2265</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>1</Version>
+    <Title>Чистильщик-2</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2266</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>0</Version>
+    <Title>Чистильщик</Title>
+    <Description>Нужно очистить окресности базы "Белых".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2267</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>0</Version>
+    <Title>Чистильщик</Title>
+    <Description>Очистить окресности базы "Белых" от мутировавших пауков.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2268</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>0</Version>
+    <Title>Чистильщик</Title>
+    <Description>Очистить окресности базы "Белых" от мутировавших кабанов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2269</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>0</Version>
+    <Title>Чистильщик</Title>
+    <Description>Очистить окресности базы "Белых" от верлиок.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2270</ID>
+    <NPC>Svetlii_Nastavnik_Mihail</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Вернуться в деревню "Белых" и получить заслуженную награду у Светлого Наставника Михаила.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2260</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title>Треп с Хантером</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2261</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title>Теневой квест: любвиобильные арты</Title>
+    <Description>случайное получение артов при посещении различных зон</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2262</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2263</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2264</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2271</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2272</ID>
+    <NPC>Hunter</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2276</ID>
+    <NPC>Grishkovec</NPC>
+    <Version>1</Version>
+    <Title>Лесной шум.</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2277</ID>
+    <NPC>Grishkovec</NPC>
+    <Version>0</Version>
+    <Title>Лесной шум</Title>
+    <Description>Гришковец попросил посетить мертвый лес на болоте и рассказать ему про лесные аномалии.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2278</ID>
+    <NPC>Grishkovec</NPC>
+    <Version>0</Version>
+    <Title>Лесной шум</Title>
+    <Description>Посетить мертвый лес на болоте (Н14-2).</Description>
+    <onWin>Жизнь покинула эти деревья. Затхлый воздух и вонь болотной жижи нависли над этим местом, но никаких особых аномалий не видно. Об этом стоит рассказать Гришковцу.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2279</ID>
+    <NPC>Grishkovec</NPC>
+    <Version>0</Version>
+    <Title>Лесной шум</Title>
+    <Description>Вернуться к Гришковцу и поделиться впечатлениями о мертвом лесе.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2280</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>3</Version>
+    <Title>Плевок - Кислому.</Title>
+    <Description>Коля Кислый получил записку от Плевка, в которой тот просит добыть 20 Экранов Альфа, точнее, просит Кислого найти сталкера, который это сделает и доставит их Плевку на Новую Землю.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2274</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Достать 20 Экранов Альфа.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2273</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title>Экраны для Плевка</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2275</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Доставить Экраны Плевку.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2281</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title>Грибница на всю братву</Title>
+    <Description>Рома Сибиряк попросил набрать для него грибов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2282</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Собрать 20 Подосиновиков.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2283</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Набрать 20  маслят.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2284</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Набрать 15 Белых грибов</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2285</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Набрать 30 опят</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2286</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Набрать 20 сыроежек</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2287</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Собрать 20 лисичек</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2288</ID>
+    <NPC>Sibiryak</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Выяснить у Ромы чего и как.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2289</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>5</Version>
+    <Title>Сувенир для Дибенко</Title>
+    <Description>Дибенко хочет собрать маленькую коллекцию игрушечного солдатиков. Трех разных фигурок будет достаточно. Дибенко готов дать за них талон на нашивку.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2292</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Найти игрушечного солдатика и показать его Дибенко.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2293</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>3</Version>
+    <Title></Title>
+    <Description>Поговорить с Техником (тем, что живет как отшельник в пятиэтажке). Возможно он сможет раскрасить солдатика?</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2291</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2290</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2294</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>3</Version>
+    <Title></Title>
+    <Description>Или поговорить с ремонтником (например, на Гурмане) - он тоже возможно смог бы раскасить солдатика.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2295</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>4</Version>
+    <Title></Title>
+    <Description>Найти оловянного солдатика.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>810513</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2296</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Найти  оловянного солдатика</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>810514</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2297</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Получить расскрашенного в парадные цвета солдатика</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2298</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Получить раскрашенного в цвета хаки солдатика</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2299</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Получить раскрашенного в камуфляжные цвета солдатика.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2300</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Надо отнести раскрашенных солдатиков Дибенко.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2301</ID>
+    <NPC>vokzal_technician</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2303</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2302</ID>
+    <NPC>Sergeant_Dibenko</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти оловяного солдатика.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>810512</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2304</ID>
+    <NPC>Mitka</NPC>
+    <Version>6</Version>
+    <Title>Сталкер, или туда и обратно</Title>
+    <Description>Ты поспорил с Митькой, что сможешь пройти весь Караван и выжить.
+(на прохождение - 1,5 часа времени, без смертей)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2305</ID>
+    <NPC>Mitka</NPC>
+    <Version>9</Version>
+    <Title></Title>
+    <Description>Предстоит трудный путь, полный испытаний. По ходу прохождения, нужно оставить для Митьки какое-нибудь подтверждение того, что ты был на Караване некоторым личностям, которых ты там встретишь. (Выполняя этот квест нельзя релогиниться или умирать, на все про все - 1,5 часа)</Description>
+    <onWin>Тебе удалось выжить на Караване</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2306</ID>
+    <NPC>Mitka</NPC>
+    <Version>3</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed>Тебе не удалось пройти Караван</onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2307</ID>
+    <NPC>Mitka</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Что ж. Для начала понадобится рулон туалетной бумаги. Придется ведь записки писать: "Мол, такой-то был тут тогда-то", Отдать их тем, кто сможет потом подтвердить, что ты был на Караване. Да и вообще, на Гиблых озерах туалетная бумага пригодится...</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2308</ID>
+    <NPC>Mitka</NPC>
+    <Version>4</Version>
+    <Title></Title>
+    <Description>Нужно добыть рулон бумаги и  уговорить Колю Барсука отвести на Караван.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2309</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>1128</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2310</ID>
+    <NPC>Trader_All_01</NPC>
+    <Version>2</Version>
+    <Title>Кабаньи ноги для Сельпо</Title>
+    <Description>Гриша Сельпо предложил работу: принести ему 5 кабаньих ног.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2311</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>Пробное убийство мобов</Title>
+    <Description>Надо убить 1 моба из трех, потом я исправлю квест.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2312</ID>
     <NPC>Pavluha_Rat</NPC>
     <Version>2</Version>
     <Title></Title>
-    <Description>111</Description>
+    <Description>Убить медленного беса (одного из трех для проверки)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2313</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Убить 1 крысу</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1982</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Естественно, стоит первым делом отметиться у проводника с Каравана.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2018</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2314</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку для Митьки</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2315</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отдать записку проводнику</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2316</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Проводник посоветовал поговорить с Диогеном и оставить ему весточку для Митьки.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2317</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2318</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку Диогену для Митьки</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2319</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отдать записку Диогену</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2320</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти Лешича в районе квадратов Т5-Т6.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2321</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2322</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку Лешичу для Митьки.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2323</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Оставить записку Лешичу</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2324</ID>
+    <NPC>Mitka</NPC>
+    <Version>4</Version>
+    <Title></Title>
+    <Description>Где-то в районе квадратов Х5 и Ц6 обретается печальный сталкер Игорь. У него тоже стоит отметиться.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2325</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2326</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2327</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отдать записку Егору</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2328</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Егор утверждает, что к северо-востоку в районе АА - АБ в леске скрывается сталкер. Надо его найти.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2329</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2330</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2331</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Оставить Тавру записку</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2332</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отметиться у Проводника с другого края Каравана</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2333</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2334</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Написать записку</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>860</itemID>
+        <title>Записка для Митьки</title>
+        <description>Подпись, время, координаты. Все, чтобы Митька поверил в твое пребывание на Караване</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2335</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отдать записку проводнику</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2336</ID>
+    <NPC>Mitka</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Вернуться к Митьке с победой и подарить рулон туалетной бумаги, который он предлагал тебе взять на Караван.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2337</ID>
+    <NPC>Provodnik_Tungus_NZ</NPC>
+    <Version>1</Version>
+    <Title>скидка для Митьки</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2338</ID>
+    <NPC>Shepeleva</NPC>
+    <Version>2</Version>
+    <Title>Зинаида в печали</Title>
+    <Description>Зинаида Фадеевна, диспетчерша с Новой Земли, похоже думает, что мужчины Зоны забыли о ней в праздник Восьмое марта.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2339</ID>
+    <NPC>Shepeleva</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Она подговорила тебя поздравить мужчин с Восьмым марта от ее имени. Но что-то не верится, что о ней и правда забыли. Наверняка многие хотят ее поздравить, просто обитает она очень уж далеко. Нужно выяснить, не посылали ли ей подарки и поздравления. У кого выяснить? Конечно же у Курьера в Любече!</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2340</ID>
+    <NPC>Kyrier</NPC>
+    <Version>2</Version>
+    <Title>Весенний курьер.</Title>
+    <Description>Курьер возле ДК Любеча просит доставить посылку Зинаиде Фадеевне, диспетчерше в аэропорту Новой земли. Необходимо успеть за 40 минут!</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2341</ID>
+    <NPC>Kyrier</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2342</ID>
+    <NPC>Kyrier</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed>Вы не успели в срок! Придется попытаться заново.</onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2347</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>Квест Тайтл Ерор</Title>
+    <Description>проверка неправильного отображения принадлежности предмета к квесту</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2348</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Поговорить и взять предмет, как правило квеста</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>810079</itemID>
+        <title>Мешла кусок</title>
+        <description>маленький и белый</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2349</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>собрать мел</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2350</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>взять второй предмет в награду</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>810080</itemID>
+        <title>кусок глины</title>
+        <description>каричневый</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2351</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>отдать глину</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1984</ID>
+    <NPC>Gurman</NPC>
+    <Version>1</Version>
+    <Title>репа за долг гурмана</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1991</ID>
+    <NPC>Engineer</NPC>
+    <Version>1</Version>
+    <Title>Покер или бридж?</Title>
+    <Description>Бывший мастер ЛВЗ попросил тебя оповестить его товарищей по трезвости о дружеской карточной игре, которая произойдет в ближайшую пятницу на "нейтральной территории".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2016</ID>
+    <NPC>Engineer</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2017</ID>
+    <NPC>Engineer</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Надо навестить бывшего наемника и пьяницу, капитана со сложновыговариваемым именем.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2216</ID>
+    <NPC>Engineer</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Надо навестить Валеру из Любеча.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2217</ID>
-    <NPC>Pavluha_Rat</NPC>
+    <NPC>Engineer</NPC>
     <Version>1</Version>
     <Title></Title>
-    <Description>222</Description>
+    <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
-    <ID>2218</ID>
-    <NPC>money_giver</NPC>
+    <ID>2343</ID>
+    <NPC>Mitka</NPC>
     <Version>1</Version>
-    <Title>Раздача слонов</Title>
-    <Description>Если Вы нуждающийся тестер, попросите дать вам денег.</Description>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed>Вы не успели пройти Караван в назначенный срок</onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2345</ID>
+    <NPC>Shepeleva</NPC>
+    <Version>1</Version>
+    <Title>Ягоды раскаяния</Title>
+    <Description>Зинаида Фадеевна оскорбилась твоему предложению "перекинуться в картишки". Надо собрать 100 брусники  во искупление вины.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2346</ID>
+    <NPC>Nishtyak_Son</NPC>
+    <Version>1</Version>
+    <Title>Глюки</Title>
+    <Description>наесться мухоморов</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2353</ID>
+    <NPC>Nishtyak_Son</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2352</ID>
+    <NPC>Nishtyak_Son</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2354</ID>
+    <NPC>Provodnik_Airport</NPC>
+    <Version>1</Version>
+    <Title>10000-Ветриченко</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2355</ID>
+    <NPC>prapNicheporenko</NPC>
+    <Version>1</Version>
+    <Title>Сброс репы за "В ад и обратно"</Title>
+    <Description>в связи с изменением репы</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2356</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>Дай мне Дробовик или джинсы</Title>
+    <Description>дробовик - шанс 0,3; джинсы - шанс 0,7</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1979</ID>
+    <NPC>Toad</NPC>
+    <Version>2</Version>
+    <Title>Разговорить Вову Жабу</Title>
+    <Description>Жаба не хочет ничего тебе сообщать. Возможно ты смог бы его подкупить (репутация Торговцев), запугать (репутация Бандитов) или убедить (репутация Одиночек)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1980</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>Попытка использовать случайный триггер</Title>
+    <Description>Случайные невидимые триггеры находятся перед каждым из трех чуваков, стоящих тут рядом: NQ_zoo_А, NQ_zoo_В, NQ_zoo_C</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1981</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title>разозлить Литовского</Title>
+    <Description>-1000 репы</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>1983</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Зеленкин рассказал кое-что о Литовском</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2013</ID>
+    <NPC>Litovski</NPC>
+    <Version>8</Version>
+    <Title>Кто такой Литовский?</Title>
+    <Description>Ты встретил наемника Литовского в окрестностях Любеча в деревне Выселки. Интересно, что это за человек и что ему нужно в Зоне? Возможно, кто-то может рассказать про него какие-нибудь подробности. Однако, вряд ли информацию удастся добыть, не обладая должной репутацией и нужными знакомствами. Возможно придется выполнить какие-то поручения, чтобы добиться личного расположения той или иной личности. А в некоторых случаях, репутация может сыграть против тебя.</Description>
+    <onWin>Литовский - легенда в среде наемников. Многие считают его одним из лучших, и денег за свои услуги он берет очень много. Но кое-кто думает, что он злопамятный и опасный псих. В любом случае, появление его в Зоне говорит, что затевается что-то крупное и, возможно, прибыльное.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2215</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Шперлинг рассказал кое-что о Литовском</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2344</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Тэклберри рассказал кое-что о Литовском</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2357</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Блждад выссказал свое мнение о Литовском</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2358</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Доцент Симонов похвалил Литовского</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2359</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Вульф похоже считает Литовского учителем</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2360</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Похоже у Литовского много скелетов в шкафу...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2361</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Следователь поделился мнением о Литовском</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2362</ID>
+    <NPC>Mirniy</NPC>
+    <Version>3</Version>
+    <Title>Кто такой Мирный?</Title>
+    <Description>На Аэропорту ты повстречал лейтенанта Николая Мирного. Интересно, кто он такой и что его привело в Зону? Возможно, кто-то может рассказать про него какие-нибудь подробности. Однако, вряд ли информацию удастся добыть, не обладая должной репутацией и нужными знакомствами. Возможно придется выполнить какие-то поручения, чтобы добиться личного расположения той или иной личности. А в некоторых случая, репутация может сыграть против тебя.</Description>
+    <onWin>Мирный - человек неоднозначный. Похоже, он связан с военным руководством, возможно, нечистым на руку. Говорят, что он занимается расследованием военных преступлений. И наверняка его миссия в Зоне важна, но не обязательно благородна.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2363</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Дибенко высказал свое мнение о Мирном</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2364</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Ничепоренко считает, что Мирный наведет порядок в Зоне</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2365</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Драчук высказал свое мнение о Мирном</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2366</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Капустин очень эмоционально отреогировал на присутствие Мирного в Зоне</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2367</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Сальников упоминул, что Мирный работал следователем по военным преступлениям</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2368</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Отставной Полковник считает Мирного коварным типом и советует не болтать при нем лишнего</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2369</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Кесаревич тонко намекнул, что Мирный может быть связан с коррупцией в рядах военных</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2370</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Курьер считает, что Мирный стоит за трафиком артефактов из Зоны и работает на коррумпированную военную верхушку</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2371</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title>знакомство с Мирным</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2372</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title>Знакомство с Литовским</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2373</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title>рассердить Батю</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2374</ID>
+    <NPC>Batya</NPC>
+    <Version>5</Version>
+    <Title>Кто такой Батя?</Title>
+    <Description>Ты повстречал на окрестностях Любеча блатного. Некого "Батю". Интересно, что ему надо в Зоне и что он за птица? Возможно, кто-то может рассказать про него какие-нибудь подробности. Однако, вряд ли информацию удастся добыть, не обладая должной репутацией и нужными знакомствами. Возможно придется выполнить какие-то поручения, чтобы добиться личного расположения той или иной личности. А в некоторых случаях, репутация может сыграть против тебя.</Description>
+    <onWin>Похоже, Батя - авторитетный вор. Кое-кто считает, что он собирается подмять под себя местных бандитов. Штакет и Татарин чем-то обеспокоены, а Капюшон вообще предположил, что Батя - подставное лицо.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2375</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Штакет, похоже, испытывает смешанные чувства касательно присутствия Бати в Зоне</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2376</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Татарин очень странно повел себя при упоминании о Бате</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2377</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Бугор сообщил, что Батя авторитетный вор</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2378</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Хмырь слышал, что Батя интересный и веселый человек. Дрожь пробирает.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2379</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Мокрух готов пойти за Батей, если того признает братва</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2380</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Капюшон, похоже, считает, что Батя не тот, за кого себя выдает</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2381</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Гурман рассказал, что Батя пытался "крышевать" сталкеров, но получил от ворот поворот</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2382</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin>Грек удивлен присутствием Бати в Зоне. Он считает, что Батя решил подмять местных бандитов под себя</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2383</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title>знакомство с Батей</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2384</ID>
+    <NPC>Salnikov</NPC>
+    <Version>1</Version>
+    <Title>поговорить о Мирном</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2385</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title>Помощь добрым людям</Title>
+    <Description>Батя попросил раздобыть еды, чая и патронов</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2386</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти для Бати 5 буханок хлеба</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2387</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти для Бати 10 банок тушенки</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2388</ID>
+    <NPC>Batya</NPC>
+    <Version>3</Version>
+    <Title></Title>
+    <Description>Добыть три сотни обычных патронов для АК-102</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2389</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Раздобыть три пачки чая</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2390</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title>счетчик 2385</Title>
+    <Description>считает до трех</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2391</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>1</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2392</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>2</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2393</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>3</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2394</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title>Не шестерка</Title>
+    <Description>Батя что-то задумал. Он просит принести ему четыре экрана "альфа" и четыре подушки "альфа".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2395</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти четыре  "Экран α"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2396</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти четыре "Подушки α"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2397</ID>
+    <NPC>Batya</NPC>
+    <Version>4</Version>
+    <Title>Поляна на четыре персоны</Title>
+    <Description>Батя о задании: "Ты к каждому по-очереди сходишь, отдашь по два арта и скажешь: это, мол, задаток. Они спросят: за что задаток. Ты им: мы люди серьезные и есть у нас верный поставщик "уникальных цацок". Нужен человек проверенный, имеющий нужные связи и умеющий налаживать поставки." Нужно навестить Штакета, Курьера, Капюшона и Сеньку Спагетти. Возможно, из данных личностей получится выудить дополнительную информацию и не обязательно сообщать ее Бате.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2398</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2399</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Задаток для Штакета</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>210001</itemID>
+        <title>задаток для Штакета</title>
+        <description>задаток для Штакета</description>
+        <activation></activation>
+      </item>
+      <item>
+        <itemID>210006</itemID>
+        <title>задаток для Штакета</title>
+        <description>задаток для Штакета</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2400</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Задаток для Курьера</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>210001</itemID>
+        <title>задаток для Курьера</title>
+        <description></description>
+        <activation></activation>
+      </item>
+      <item>
+        <itemID>210006</itemID>
+        <title>задаток для Курьера</title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2412</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Задаток для Капюшона</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>210001</itemID>
+        <title>задаток для Капюшона</title>
+        <description></description>
+        <activation></activation>
+      </item>
+      <item>
+        <itemID>210006</itemID>
+        <title>задаток для Капюшона</title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2413</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Задаток для Сеньки</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>210001</itemID>
+        <title>задаток для Сеньки Спагетти</title>
+        <description></description>
+        <activation></activation>
+      </item>
+      <item>
+        <itemID>210006</itemID>
+        <title>задаток для Сеньки Спагетти</title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2414</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2415</ID>
+    <NPC>Batya</NPC>
+    <Version>4</Version>
+    <Title></Title>
+    <Description>Отнести задаток (Экран α и Подушка α) Штакету</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2416</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2417</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2418</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Отнести задаток (Экран α и Подушка α) Курьеру</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2419</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2420</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2421</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Отнести задаток (Экран α и Подушка α) Капюшону</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2422</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2423</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2424</ID>
+    <NPC>Batya</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Отнести задаток (Экран α и Подушка α) Сеньке Спагетти</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2425</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2426</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2427</ID>
+    <NPC>Batya</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Рассказать Бате, как все прошло.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2428</ID>
+    <NPC>Shtaket</NPC>
+    <Version>5</Version>
+    <Title>Барыга по кличке "Шрам" (знание от Штакета)</Title>
+    <Description>Штакет рассказал про некого барыгу по кличке "Шрам", который может заниматься переправкой редких артов. Штакет утверждает, что Шрам работает напрямую с наемниками из "Вороньего леса".</Description>
+    <onWin>Штакет рассказал кое-что интересное о барыге по кличке "Шрам"</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2429</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 1</Title>
+    <Description>Надо поговорить с Крысом, который сидит рядом на бетонных блоках, а потом снова с Павлухой негром.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2430</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Поговори с Крысом</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2431</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>поговорить с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2432</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 2</Title>
+    <Description>убить 2 щенков, и собрать две головы</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2433</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>убить двух щенков (существо 13 подтип 1)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2434</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>собрать 2 головы щенка и отнести негру</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2435</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>3</Version>
+    <Title>квест 3</Title>
+    <Description>собрать 2 пачки чая (итем 1149) и 2 буханки хлеба (итем 410076), автоматически сожрать, потом поговорить с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2436</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>найти 2 пачки чая</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2437</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>найти 2 буханки хлеба</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2438</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title>квест 4</Title>
+    <Description>выйти из игры или умереть (на выбор)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2439</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2440</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2441</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 5</Title>
+    <Description>получить бинокль, экипировать бинокль, подождать 10 сек, бинокль уничтожается, поговорить с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>300</itemID>
+        <title>окулярчики</title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2442</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2443</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2444</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2445</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title>квест 6</Title>
+    <Description>убить 2 щенков (тип 13 подтип 1)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2446</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 7</Title>
+    <Description>заплатить 5000</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2447</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 8</Title>
+    <Description>добыть голову молодого медведя (итем 801) и Челюсть полярной собаки (итем 810), поговорить с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2448</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>голова молодого медведя</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2449</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>челюсть полярной собаки</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2450</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>поговорить с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2451</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>квест 9</Title>
+    <Description>потрогать три невидимых триггера, которые находятся перед тремя НПЦ рядом</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2452</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>потрогай один из триггеров</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2453</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>потрогай один из триггеров</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2454</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>потрогай один из триггеров</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2455</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>поговори с негром</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2456</ID>
+    <NPC>Kyrier</NPC>
+    <Version>4</Version>
+    <Title>Солдаты в погоне за барыгой (знания от Курьера)</Title>
+    <Description>Курьер рассказал, что военные отправили взвод вглубь Зоны в погоне за каким-то барыгой, который "барыжил чем-то недозволенным", т.е. представляющим стратегический интерес. Якобы, барыга заманил их в ловушку, где они погибли.</Description>
+    <onWin>Курьер рассказал кое-что интересное про взвод солдат, ловивших барыгу</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2457</ID>
+    <NPC>Hood</NPC>
+    <Version>2</Version>
+    <Title>Капюшон про уникальные арты (зн ур1)</Title>
+    <Description>Капюшон рассказал, что в Зоне появились уникальные арты и кто найдет первым место, где их можно достать, тот сорвет джек-пот. Батя пытается успеть первым.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2458</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2459</ID>
+    <NPC>Litovski</NPC>
+    <Version>3</Version>
+    <Title>Данные для Литовского</Title>
+    <Description>Наемник Литовский, который расположился в деревне "Выселки" со своим отрядом, попросил собрать оперативные сводки, необходимые для какой-то операции. Нужные документы передадут Капитан Шперлинг и Доцент Симонов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2460</ID>
+    <NPC>Litovski</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Забрать оперативные сводки у Капитана Шперлинга</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>859</itemID>
+        <title>Сводка от Шперлинга</title>
+        <description>Папка с несколькими листами, покрытыми шифром</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2461</ID>
+    <NPC>Litovski</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Забрать оперативные сводки у Доцента Симонова из лагеря "Эгида" на Везувии</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>1609</itemID>
+        <title>Сводки от Симонова</title>
+        <description>Папка с несколькими листами, покрытыми шифром</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2462</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2463</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2464</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Доставить сводки Шперлинга Литовскому</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2465</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Доставить сводки Симонова Литовскому</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2466</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title>счетчик квеста 2459</Title>
+    <Description>считает до трех</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2467</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2468</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2469</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2470</ID>
+    <NPC>Litovski</NPC>
+    <Version>4</Version>
+    <Title>Завоеванное доверие</Title>
+    <Description>Литовский дал новое задание: забрать посылку у связного на Тунгуске. Связной - никто иной как Вульф, который временно обосновался в охотничьем поселке "Радиус".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2471</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Прибыть к Вульфу в разрушенную часовню поселка "Радиус" на Тунгуске.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2472</ID>
+    <NPC>Ander</NPC>
+    <Version>1</Version>
+    <Title>Наемники: отпущение грехов</Title>
+    <Description>Наемник по имени Андер, встреченный у деревни "Выселки", обещает замолвить за тебя словечко, если ты сможешь раздобыть для него 8 больших сухпайков.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2473</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Нужно найти сторожку в горах в квадрате З 5-1</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2474</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти в сторожке дипломат с документами</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>1676</itemID>
+        <title>Дипломат ученого</title>
+        <description>По словам Вульфа, внутри - данные, собранные учеными для Литовского</description>
+        <activation>Вскрыть</activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2475</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Пообщаться с Вульфом по поводу дипломата.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2477</ID>
+    <NPC>Litovski</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2476</ID>
+    <NPC>Leonid_Ceaser</NPC>
+    <Version>1</Version>
+    <Title>Показать документы Литовского Кесаревичу</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2479</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Вернуться с дипломатом к Вульфу.</Description>
+    <onWin>Дипломат доставлен</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2480</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Получить у Вульфа посылку для Литовского</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>1609</itemID>
+        <title>Папка</title>
+        <description>В папке какие-то столбцы цифр. Похоже на рассчеты маршрутов или на что-то подобное.</description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2481</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Доложить Литовскому о результатах.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2482</ID>
+    <NPC>Murder</NPC>
+    <Version>2</Version>
+    <Title>Дождаться подтверждения миссии от Вульфа</Title>
+    <Description>Вульф не поверил, что тебя послал Литовский. Он проверяет информацию и требует подождать 6 часов.</Description>
+    <onWin>Наверное, Вульф уже выяснил, что тебя и правда послал Литовский</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2483</ID>
+    <NPC>Murder</NPC>
+    <Version>1</Version>
+    <Title>проверка вскрытия чемодана по 2470</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2484</ID>
+    <NPC>Murder</NPC>
+    <Version>2</Version>
+    <Title>Заплатить Вульфу за дипломат</Title>
+    <Description>Вульф требует 200 тысяч в качестве выкупа за дипломат. Интересно, а этот дипломат - тоже ловушка?</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2485</ID>
+    <NPC>Murder</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2486</ID>
+    <NPC>Murder</NPC>
+    <Version>3</Version>
+    <Title>"Уфологи" с Тунгуски (знание от Вульфа)</Title>
+    <Description>Вульф рассказал, что "уфологи" - это на самом деле ученые, представляющие некую крупную организацию, которые под видом поисков НЛО, разыскивали некого сталкера, скрывшегося в Зоне с какими-то редкими то ли образцами, то ли артефактами. Они даже завезли оборудования, чтобы отследить его по "спектральному следу".</Description>
+    <onWin>Вульф рассказал кое-что интересное про "уфологов", которые искали некого сталкера по спектральному следу</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2487</ID>
+    <NPC>Murder</NPC>
+    <Version>2</Version>
+    <Title>Вокруг пальца</Title>
+    <Description>Тебе удалось убедить Вульфа, что ты не нашел дипломат, потому что он дал тебе неверные координаты. Нужно сделать вид, что ты отправился искать дипломат и сходить еще раз к сторожке. Единственный шанс - это убедить Вульфа, что дипломат забрал кто-то другой.</Description>
+    <onWin>Пора вернуться к Вульфу.</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2488</ID>
+    <NPC>Murder</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Снова дойти до сторожки в квадрате З 5-1.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2489</ID>
+    <NPC>Murder</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Попробовать убедить Вульфа, что дипломат украли</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2491</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>пьянство</Title>
+    <Description>сабж</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2492</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>пьянь новый год</Title>
+    <Description>сабж</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2494</ID>
+    <NPC>BASE_Bank_Chemical</NPC>
+    <Version>1</Version>
+    <Title>Хранилище для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2495</ID>
+    <NPC>BASE_Bank_Hillvillage</NPC>
+    <Version>1</Version>
+    <Title>плата за пользование для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2496</ID>
+    <NPC>BASE_Bank_Psycho</NPC>
+    <Version>1</Version>
+    <Title>хранилище для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2497</ID>
+    <NPC>BASE_Bank_Sanatorium</NPC>
+    <Version>1</Version>
+    <Title>хранилище для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2498</ID>
+    <NPC>BASE_Bank_Sawmill</NPC>
+    <Version>1</Version>
+    <Title>хранилище для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2499</ID>
+    <NPC>BASE_Bank_Tunguska</NPC>
+    <Version>2</Version>
+    <Title>хран для чужих</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2493</ID>
+    <NPC>Kyrier</NPC>
+    <Version>1</Version>
+    <Title>выдача артов к "Поляне"</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2500</ID>
+    <NPC>Hood</NPC>
+    <Version>1</Version>
+    <Title>знакомство с Капюшоном</Title>
+    <Description>сабж</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2501</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title>Суд над сталкером</Title>
+    <Description>(Данное задание является информационным и его нельзя завершить. Здесь отображается вся существенная информация, которую удастся раздобыть о мотивах и деятельности Литовского, Мирного и Бати)
+Ты задался вопросом: что же нужно в Зоне трем таким непохожим личностям? И не стоит ли за их появлением  нечто объединяющее и существенное? Возможно, собрав информацию, ты сможешь использовать ее и в своих целях?</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2502</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2503</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2504</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Курьер рассказал, что военные отправили взвод вглубь Зоны в погоне за каким-то барыгой, который "барыжил чем-то недозволенным", т.е. представляющим стратегический интерес. Якобы, барыга заманил их в ловушку, где они погибли</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2505</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2506</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2507</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Штакет рассказал про некого барыгу по кличке "Шрам", который может заниматься переправкой редких артов. Штакет утверждает, что Шрам работает напрямую с "Вороньим лесом".</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2508</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2509</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2510</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Вульф рассказал, что "уфологи" - это на самом деле ученые, представляющие некую крупную организацию, которые под видом поисков НЛО, разыскивали некого сталкера, скрывшегося в Зоне с какими-то редкими то ли образцами, то ли артефактами. Они даже завезли оборудования, чтобы отследить его по "спектральному следу"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2511</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2512</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2513</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Коля Кислый рассказал, что сталкера, которого ищет Лейтенант Мирный, зовут "Шрам". Коля пересекался с ним в былые времена, но давно его не видел. По словам Кислого, Шрам "шпионил" за сталкерами. Возможно, он собирал информацию для себя, но скорее всего, работал по заданию какой-то фракции.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2514</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2515</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2516</ID>
+    <NPC>Litovski</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Митька с Тунгуски надоумил тебя поинтересоваться "Байкой о Шёпоте".  Якобы Шёпот - это призрак сталкера, который все время что-то беззвучно говорит, но никто не знает, что именно. Плевок рассказал, что однажды встречался с этим феноменом - тогда призрак якобы спас из аномалии Колю Кислого. А Шрам, который был тогда с ними, стал единственным, кто понял, что именно говорит призрак. Но этой информацией делиться не стал.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2517</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2518</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2519</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2520</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2521</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2522</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2523</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2524</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2525</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2526</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2527</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2528</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2529</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2530</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2531</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2532</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2533</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2534</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2535</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2536</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2537</ID>
+    <NPC>Litovski</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2538</ID>
+    <NPC>BASE_Bank_Sawmill</NPC>
+    <Version>1</Version>
+    <Title>таймер</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2539</ID>
+    <NPC>BASE_Bank_Sawmill</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2540</ID>
+    <NPC>Hood</NPC>
+    <Version>1</Version>
+    <Title>норм знакомство</Title>
+    <Description>многобукав</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2541</ID>
+    <NPC>Souteneur</NPC>
+    <Version>4</Version>
+    <Title>Бандиты: на побегушках</Title>
+    <Description>Чтобы помириться с бандитами придется встать на скользкий путь и убить кого-нибудь (без ПК-статуса разговор не выйдет). А чтобы доказать, что ты достаточно смекалист - донести до Радика у ЛВЗ хотя бы два арта Экран Альфа.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2542</ID>
+    <NPC>Souteneur</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Добыть два Экрана Альфа и рассказать Радику о своих успехах на пути насилия.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2543</ID>
+    <NPC>karma_npc</NPC>
+    <Version>2</Version>
+    <Title>Наемники: ощищение десять тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди наемников.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2544</ID>
+    <NPC>karma_npc</NPC>
+    <Version>4</Version>
+    <Title>Наемники: очищение двадцать тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди наемников</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2545</ID>
+    <NPC>karma_npc</NPC>
+    <Version>3</Version>
+    <Title>Бандиты: очищение десять тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди бандитов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2546</ID>
+    <NPC>karma_npc</NPC>
+    <Version>3</Version>
+    <Title>Бандиты: очищение двадцать тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди бандитов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2547</ID>
+    <NPC>karma_npc</NPC>
+    <Version>4</Version>
+    <Title>Торговцы: очищение пять тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди Торговцев.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2548</ID>
+    <NPC>karma_npc</NPC>
+    <Version>3</Version>
+    <Title>Военные: очищение десять тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди военных.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2549</ID>
+    <NPC>karma_npc</NPC>
+    <Version>1</Version>
+    <Title>сдать 2 000 000</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2550</ID>
+    <NPC>karma_npc</NPC>
+    <Version>2</Version>
+    <Title>сдать 4 000 000</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2551</ID>
+    <NPC>karma_npc</NPC>
+    <Version>3</Version>
+    <Title>Наемники: очищение пятнадцать тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди наемников</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2552</ID>
+    <NPC>karma_npc</NPC>
+    <Version>3</Version>
+    <Title>Бандиты: очищение пятнадцать тысяч</Title>
+    <Description>Специалист готов поработать над вашей репутацией среди бандитов.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2553</ID>
+    <NPC>karma_npc</NPC>
+    <Version>1</Version>
+    <Title>сдача 3 000 000</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2478</ID>
+    <NPC>Pavluha_Rat</NPC>
+    <Version>1</Version>
+    <Title>триггер тест ЗОО 1х1</Title>
+    <Description>взаимодействие с будкой</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2490</ID>
+    <NPC>Greek</NPC>
+    <Version>1</Version>
+    <Title>спросить про Батю</Title>
+    <Description>сабж</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2554</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title>защищать сталкера-убийцу</Title>
+    <Description>сабж</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2555</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title>Сталкер под подозрением</Title>
+    <Description>Лейтенант Мирный, прибывший недавно на Аэропорт, требует, чтобы ты помог ему найти некоего сталкера с большим шрамом в виде кляксы на левой руке. Иначе он грозит большими неприятностями всем сталкерам, т.к. разыскиваемый подозревается в убийстве двух солдат срочной службы на их посту.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2556</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Первое, что приходит на ум - нужно спросить про сталкера со шрамом у Коли Кислого.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2557</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Коля Кислый посоветовал поговорить с его старыми преятелями: Митькой на Тунгуске и Плевком на Новой Земле.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2558</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Поговорить с Митькой</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2559</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Поговорить с Плевком</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2560</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Можно вернуться к Мирному уже сейчас и доложить, что узнал. Ты всегда сможешь поискать дополнительную информацию самостоятельно и, возможно, в своих интересах.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2561</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>3</Version>
+    <Title>Подозрительный Шрам</Title>
+    <Description>Кислый поделился подозрением, что Шрам  шпионит на какую-то из фракций, войдя в доверие к сталкерам. Уж больно он любит задавать вопросы.</Description>
+    <onWin>Кислый считает, что Шрам шпионил за сталкерами на какую-то фракцию</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2562</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>2</Version>
+    <Title>Собрать информацию о местоположении Шрама</Title>
+    <Description>Что же это за сталкер, которым так интересуются все ключевые фракции? Нужно собрать о нем информацию.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2563</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2564</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Митька</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2565</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Плевок</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2566</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Санек Бывалый</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2567</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Лешич</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2568</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Егор Стрелок</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2569</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Вова Жаба</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2570</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Отшельник Тимоха</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2571</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Васятка</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2572</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>получение знаний</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2573</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title>Поиск Шрама: базы сталкеров</Title>
+    <Description>Лейтенант Мирный настоятельно попросил помочь военным в розысках сталкера Шрама, который, по его словам, застрелил двух срочников, прорываясь через кардон. Требуется посетить все скрытые базы сталкеров, послушать, посмотреть - возможно имя Шрама где-то всплывет.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2574</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2575</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу на Химическом могильнике</Description>
+    <onWin>Похоже, на Химическом могильнике никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2576</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу "Дом на холме"</Description>
+    <onWin>Похоже, на "Доме на холме" никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2577</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу в Психушке</Description>
+    <onWin>Похоже, в Психбольнице никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2578</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу у Санатория</Description>
+    <onWin>Похоже, на Санатории никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2579</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу на Лесопилке</Description>
+    <onWin>Похоже, на Лесопилке никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2580</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Посетить базу на Тунгуске</Description>
+    <onWin>Похоже, на тунгусской базе никаких следов Шрама...</onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2581</ID>
+    <NPC>Mirniy</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Ты не особенно-то и старался что-то выяснить на базах... Но похоже, что Шрам на базах не появлялся. Пора доложить Лейтенанту Мирному обстановку.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2582</ID>
+    <NPC>Mitka</NPC>
+    <Version>3</Version>
+    <Title>Байки о Шёпоте</Title>
+    <Description>Митька посоветовал поинтересоваться у Плевка и у Кислого "байками о Шёпоте". Он все еще напрямую не говорит, что помнит Кислого, но, судя по всему, притворяется. По словам Митьки, эти байки как-то связаны со Шрамом. Как именно? И что это за байки такие? Стоит выяснить,</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2583</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Поговорить с Колей Кислым</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2584</ID>
+    <NPC>Mitka</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Поговорить с Плевком</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2585</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>1</Version>
+    <Title>Резина в обмен на информацию</Title>
+    <Description>Плевок с Новой Земли попроси тебя достать для него 5 "Резин α" в обмен на информацию о Шраме. Он обещал частично возместить затраты.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2586</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>3</Version>
+    <Title>Байка о Шёпоте: плата за знание</Title>
+    <Description>Плевок с Новой Земли попросил достать два "Стабилизатора β " и две "Подушки β" в обмен на рассказ о Шёпоте. Он обещал рассказать нечто, что прольет свет на связь Шрама с этой байкой.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2587</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Найти два "Стабилизатора β"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2588</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>1</Version>
+    <Title></Title>
+    <Description>Найти две "Подушки β"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2589</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>1</Version>
+    <Title>Самогон за байку</Title>
+    <Description>Коля Кислый попросил принести бутылку самогона, чтобы "промочить горло". Самогон, по слухам, варят местные на Аэропорту.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2590</ID>
+    <NPC>Mirniy</NPC>
+    <Version>1</Version>
+    <Title>войсковое довольство</Title>
+    <Description>бонус за репу военных</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2591</ID>
+    <NPC>Lovchiy</NPC>
+    <Version>2</Version>
+    <Title>Состязание: клыки кабана</Title>
+    <Description>Принести Ловчему 10 клыков молодого кабана.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2592</ID>
+    <NPC>Shperling</NPC>
+    <Version>1</Version>
+    <Title>Состязание: мускулы брутора</Title>
+    <Description>Добыть 20 Мускулов брутора</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2593</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>2</Version>
+    <Title></Title>
+    <Description>Коля Кислый</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2594</ID>
+    <NPC>Provodnik_Airport</NPC>
+    <Version>1</Version>
+    <Title>дешевый полет от Шепелева</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2595</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>2</Version>
+    <Title>поговори с Помошником тестера</Title>
+    <Description>квест 2595</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2596</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>2</Version>
+    <Title>Квест "Убей одного щенка"</Title>
+    <Description>Убить моба с ИД 13</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2597</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>1</Version>
+    <Title>Заплатить НПС</Title>
+    <Description>Нужно иметь в кармане 100 игровых рублей</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2598</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>2</Version>
+    <Title>"Использование предмета костер"</Title>
+    <Description>Получи костер через "Правила квеста" и закрой квест, зажгя квестовый костер.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>431</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2599</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>1</Version>
+    <Title>Квест "Таймер"</Title>
+    <Description>Подожди 10 секунд для завершения задания.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2600</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>2</Version>
+    <Title>Проверка экипировки предмета</Title>
+    <Description>Экипируй бинокль. (Можно получить по заданию 2595: Поговорить)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2601</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>1</Version>
+    <Title>Взаимодействие с триггером "Пень"</Title>
+    <Description>Нажми на пень для окончания задания</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2602</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>1</Version>
+    <Title>Тип квеста "Войти в зону"</Title>
+    <Description>Недалеко слева от НПЦ "Помошник тестера по квестам" есть зона. Войди в нее, чтобы завершить квест.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2603</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>1</Version>
+    <Title>Проверить событие "Умереть"</Title>
+    <Description>воспользуйся командой /iwannadie  и очнись в безопаске для завершения квеста</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
