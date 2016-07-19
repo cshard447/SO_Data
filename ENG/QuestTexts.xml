@@ -30797,9 +30797,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1725</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>2</Version>
-    <Title></Title>
-    <Description></Description>
+    <Version>1</Version>
+    <Title>Счетчик квеста 1696</Title>
+    <Description>Необходим, чтобы игрок выполнил квест 1696 пять раз.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30807,9 +30807,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1726</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Выполнил 1 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30827,9 +30827,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1728</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Выполнил 3 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30837,9 +30837,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1729</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Выполнил 4 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30847,9 +30847,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1730</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Выполнил 5 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30887,9 +30887,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1734</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>2</Version>
-    <Title></Title>
-    <Description></Description>
+    <Version>1</Version>
+    <Title>Счетчик квеста 1731</Title>
+    <Description>До пяти тоже</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30897,9 +30897,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1735</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Сделать 1 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30907,9 +30907,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1736</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Сделать 2 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30917,9 +30917,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1737</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
+    <Version>0</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Сделать 3 раз</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -30974,8 +30974,8 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>1742</ID>
     <NPC>Ivan_Hell</NPC>
-    <Version>1</Version>
-    <Title></Title>
+    <Version>0</Version>
+    <Title>Сюрприз 1738</Title>
     <Description></Description>
     <onWin></onWin>
     <onFailed></onFailed>
@@ -38029,10 +38029,10 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>2428</ID>
     <NPC>Shtaket</NPC>
-    <Version>3</Version>
+    <Version>4</Version>
     <Title>A man named "Scar" (a piece of information from Shtaket)</Title>
     <Description>Shtaket told you about a huckster known as "Scar" who dispatches rare arts. According to Shtaket, that man cooperates with the members of the Raven Wood clan.</Description>
-    <onWin></onWin>
+    <onWin>Штакет рассказал кое-что интересное о барыге по кличке "Шрам"</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -38316,10 +38316,10 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>2456</ID>
     <NPC>Kyrier</NPC>
-    <Version>1</Version>
+    <Version>3</Version>
     <Title>Soldiers Chasing the Dealer</Title>
     <Description>Courier told you that the military had sent the soldiers somewhere deep into the Zone in chase of a dealer who tried to sell 'em something illegal (something of strategic concern). Some say that the dealer trapped the soldiers and killed 'em all.</Description>
-    <onWin></onWin>
+    <onWin>Курьер рассказал кое-что интересное про взвод солдат, ловивших барыгу</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -38430,9 +38430,9 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>2466</ID>
     <NPC>Litovski</NPC>
-    <Version>1</Version>
-    <Title></Title>
-    <Description></Description>
+    <Version>0</Version>
+    <Title>счетчик квеста 2459</Title>
+    <Description>считает до трех</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -38634,10 +38634,10 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>2486</ID>
     <NPC>Murder</NPC>
-    <Version>1</Version>
+    <Version>2</Version>
     <Title>"Уфологи" с Тунгуски (знание от Вульфа)</Title>
     <Description>Вульф рассказал, что "уфологи" - это на самом деле ученые, представляющие некую крупную организацию, которые под видом поисков НЛО, разыскивали некого сталкера, скрывшегося в Зоне с какими-то редкими то ли образцами, то ли артефактами. Они даже завезли оборудования, чтобы отследить его по "спектральному следу".</Description>
-    <onWin></onWin>
+    <onWin>Вульф рассказал кое-что интересное про "уфологов", которые искали некого сталкера по спектральному следу</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -38896,7 +38896,7 @@ psi-energy. Go and examine the barrows.</Description>
     <NPC>Litovski</NPC>
     <Version>1</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Коля Кислый рассказал, что сталкера, которого ищет Лейтенант Мирный, зовут "Шрам". Коля пересекался с ним в былые времена, но давно его не видел. По словам Кислого, Шрам "шпионил" за сталкерами. Возможно, он собирал информацию для себя, но скорее всего, работал по заданию какой-то фракции.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -38926,7 +38926,7 @@ psi-energy. Go and examine the barrows.</Description>
     <NPC>Litovski</NPC>
     <Version>1</Version>
     <Title></Title>
-    <Description></Description>
+    <Description>Митька с Тунгуски надоумил тебя поинтересоваться "Байкой о Шёпоте".  Якобы Шёпот - это призрак сталкера, который все время что-то беззвучно говорит, но никто не знает, что именно. Плевок рассказал, что однажды встречался с этим феноменом - тогда призрак якобы спас из аномалии Колю Кислого. А Шрам, который был тогда с ними, стал единственным, кто понял, что именно говорит призрак. Но этой информацией делиться не стал.</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
@@ -39397,7 +39397,7 @@ psi-energy. Go and examine the barrows.</Description>
     <Version>2</Version>
     <Title>Suspicious Scar</Title>
     <Description>Kolya Acid suggested that Scar is hired by one of the clans to spy on stalkers. He asks way too many questions.</Description>
-    <onWin></onWin>
+    <onWin>Кислый считает, что Шрам шпионил за сталкерами на какую-то фракцию</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -39534,60 +39534,60 @@ psi-energy. Go and examine the barrows.</Description>
   <Quest>
     <ID>2575</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу на Химическом могильнике</Description>
-    <onWin></onWin>
+    <onWin>Похоже, на Химическом могильнике никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2576</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу "Дом на холме"</Description>
-    <onWin></onWin>
+    <onWin>Похоже, на "Доме на холме" никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2577</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу в Психушке</Description>
-    <onWin></onWin>
+    <onWin>Похоже, в Психбольнице никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2578</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу у Санатория</Description>
-    <onWin></onWin>
+    <onWin>Похоже, на Санатории никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2579</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу на Лесопилке</Description>
-    <onWin></onWin>
+    <onWin>Похоже, на Лесопилке никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
   <Quest>
     <ID>2580</ID>
     <NPC>Mirniy</NPC>
-    <Version>0</Version>
+    <Version>1</Version>
     <Title></Title>
     <Description>Посетить базу на Тунгуске</Description>
-    <onWin></onWin>
+    <onWin>Похоже, на тунгусской базе никаких следов Шрама...</onWin>
     <onFailed></onFailed>
     <Items></Items>
   </Quest>
@@ -39637,6 +39637,193 @@ psi-energy. Go and examine the barrows.</Description>
     <Version>0</Version>
     <Title>Резина в обмен на информацию</Title>
     <Description>Плевок с Новой Земли попроси тебя достать для него 5 "Резин α" в обмен на информацию о Шраме. Он обещал частично возместить затраты.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2586</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>0</Version>
+    <Title>Байка о Шёпоте: плата за знание</Title>
+    <Description>Плевок с Новой Земли попросил достать два "Стабилизатора β " и две "Подушки β" в обмен на рассказ о Шёпоте. Он обещал рассказать нечто, что прольет свет на связь Шрама с этой байкой.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2587</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Найти два "Стабилизатора β"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2588</ID>
+    <NPC>PK_Trader_NZ01</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Найти две "Подушки β"</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2589</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>0</Version>
+    <Title>Самогон за байку</Title>
+    <Description>Коля Кислый попросил принести бутылку самогона, чтобы "промочить горло". Самогон, по слухам, варят местные на Аэропорту.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2590</ID>
+    <NPC>Mirniy</NPC>
+    <Version>0</Version>
+    <Title>войсковое довольство</Title>
+    <Description>бонус за репу военных</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2591</ID>
+    <NPC>Lovchiy</NPC>
+    <Version>0</Version>
+    <Title>Состязание: клыки кабана</Title>
+    <Description>Принести Ловчему 10 клыков молодого кабана.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2592</ID>
+    <NPC>Shperling</NPC>
+    <Version>0</Version>
+    <Title>Состязание: мускулы брутора</Title>
+    <Description>Добыть 20 Мускулов брутора</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2593</ID>
+    <NPC>Kolja_Kislii</NPC>
+    <Version>0</Version>
+    <Title></Title>
+    <Description>Коля Кислый</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2594</ID>
+    <NPC>Provodnik_Airport</NPC>
+    <Version>0</Version>
+    <Title>дешевый полет от Шепелева</Title>
+    <Description></Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2595</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>поговори с Помошником тестера</Title>
+    <Description>квест 2595</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2596</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Квест "Убей одного щенка"</Title>
+    <Description>Убить моба с ИД 13</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2597</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Заплатить НПС</Title>
+    <Description>Нужно иметь в кармане 100 игровых рублей</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2598</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>"Использование предмета костер"</Title>
+    <Description>Получи костер через "Правила квеста" и закрой квест, зажгя квестовый костер.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items>
+      <item>
+        <itemID>431</itemID>
+        <title></title>
+        <description></description>
+        <activation></activation>
+      </item>
+    </Items>
+  </Quest>
+  <Quest>
+    <ID>2599</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Квест "Таймер"</Title>
+    <Description>Подожди 10 секунд для завершения задания.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2600</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Проверка экипировки предмета</Title>
+    <Description>Экипируй бинокль. (Можно получить по заданию 2595: Поговорить)</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2601</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Взаимодействие с триггером "Пень"</Title>
+    <Description>Нажми на пень для окончания задания</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2602</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Тип квеста "Войти в зону"</Title>
+    <Description>Недалеко слева от НПЦ "Помошник тестера по квестам" есть зона. Войди в нее, чтобы завершить квест.</Description>
+    <onWin></onWin>
+    <onFailed></onFailed>
+    <Items></Items>
+  </Quest>
+  <Quest>
+    <ID>2603</ID>
+    <NPC>quest_test_help</NPC>
+    <Version>0</Version>
+    <Title>Проверить событие "Умереть"</Title>
+    <Description>воспользуйся командой /iwannadie  и очнись в безопаске для завершения квеста</Description>
     <onWin></onWin>
     <onFailed></onFailed>
     <Items></Items>
